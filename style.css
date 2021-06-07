@@ -1,0 +1,23 @@
+body {
+  margin: 100px;
+  background-color: rgb(115, 147, 179);
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  height: 300px;
+}
+
+.portfolio {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.favorite-title {
+  display: block;
+}
